@@ -8,7 +8,7 @@ Smart Parking is an application for android users where user can book there vich
 ![](Screenshort/image-001.png)
 # Screenshot
 
-<img src"https://github.com/Alok17008/Smart-Parking/blob/master/Screenshort/image-001.png" width="270" height="500">
+![](Screenshort/image-008.jpg)
 ![](Screenshort/image-009.jpg)
 ![](Screenshort/image-010.jpg)
 ![](Screenshort/image-011.jpg)
