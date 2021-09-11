@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="drawerOpen">drawerOpen</string>
+    <string name="drawerClose">drawerClose</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutDetails">
+        1.Alok Kumar
+		2.Anjali priya
+		3.Muskan
+    </string>
+
+    <string name="alert_title">Exit ?</string>
+    <string name="alert_message">Are you sure you want to turn off this app ?</string>
+
+    <string name="reservationDetails">Go to your reservation details to see your payment details.</string>
+    <string name="pass_warn">Password is too short\nPassword must contain minimum 8 characters</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">to</string>
+    <string name="next">Next</string>
+    <string name="nearby_parking">Nearby Parking</string>
+    <string name="easy_to_find_parking_near_your_location">Easy to find parking near your location</string>
+    <string name="start_parking">Start Parking</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">User Login</string>
+    <string name="email">E-mail address</string>
+    <string name="prompt_password">Password</string>
+    <string name="create_new">Click here for register</string>
+    <string name="not_register">Not Register?</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+    <string name="name_error">Please enter your name</string>
+    <string name="phone_error">Please enter your phone number</string>
+    <string name="email_error">Please enter your email address</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="registration">Registration</string>
+    <string name="password">Password</string>
+    <string name="smart_parking">Smart Parking</string>
+    <string name="todo">TODO</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_updated">Last updated: 15th of May, 2021</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_testfaltuka">Map</string>
+</resources>

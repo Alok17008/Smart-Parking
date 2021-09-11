@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220546590038",
+    "firebase_url": "https://nearby-parking-4a7b5-default-rtdb.firebaseio.com",
+    "project_id": "nearby-parking-4a7b5",
+    "storage_bucket": "nearby-parking-4a7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220546590038:android:bb921a64da9e9ebce1a2f7",
+        "android_client_info": {
+          "package_name": "com.smartproject.smartparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220546590038-1r7mnad574np3i51fbr0nmhmt71e7tai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA742CWHdZJm_kh31MlWy-xOlBu1L3Fn1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220546590038-1r7mnad574np3i51fbr0nmhmt71e7tai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
