@@ -24,6 +24,5 @@ Smart Parking is an application for android users where user can book there vich
 ![](Screenshort/image-021.jpg)
 ![](Screenshort/image-022.jpg)
 
-<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
-  <img src="https://avatars.githubusercontent.com/u/67496804?v=4">
-</a>
+# contribution
+<img src="https://github.com/Alok17008/Smart-Parking/blob/master/Screenshort/pp-modified.png">
